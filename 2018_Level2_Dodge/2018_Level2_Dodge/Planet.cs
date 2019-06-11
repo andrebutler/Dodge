@@ -15,6 +15,9 @@ namespace _2018_Level2_Dodge
 
     class Planet
     {
+        /// <summary>
+        /// planet class
+        /// </summary>
         bool left, right;
         string move;
         // declare fields to use in the class
