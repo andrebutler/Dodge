@@ -1,0 +1,10 @@
+H:\Programming\2018_Level2_Dodge\2018_Level2_Dodge\bin\Debug\2018_Level2_Dodge.exe.config
+H:\Programming\2018_Level2_Dodge\2018_Level2_Dodge\bin\Debug\2018_Level2_Dodge.exe
+H:\Programming\2018_Level2_Dodge\2018_Level2_Dodge\bin\Debug\2018_Level2_Dodge.pdb
+H:\Programming\2018_Level2_Dodge\2018_Level2_Dodge\obj\Debug\2018_Level2_Dodge.csprojAssemblyReference.cache
+H:\Programming\2018_Level2_Dodge\2018_Level2_Dodge\obj\Debug\_2018_Level2_Dodge.frmDodge.resources
+H:\Programming\2018_Level2_Dodge\2018_Level2_Dodge\obj\Debug\_2018_Level2_Dodge.Properties.Resources.resources
+H:\Programming\2018_Level2_Dodge\2018_Level2_Dodge\obj\Debug\2018_Level2_Dodge.csproj.GenerateResource.cache
+H:\Programming\2018_Level2_Dodge\2018_Level2_Dodge\obj\Debug\2018_Level2_Dodge.csproj.CoreCompileInputs.cache
+H:\Programming\2018_Level2_Dodge\2018_Level2_Dodge\obj\Debug\2018_Level2_Dodge.exe
+H:\Programming\2018_Level2_Dodge\2018_Level2_Dodge\obj\Debug\2018_Level2_Dodge.pdb
