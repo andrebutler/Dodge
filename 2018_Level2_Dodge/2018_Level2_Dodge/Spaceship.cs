@@ -28,6 +28,7 @@ namespace _2018_Level2_Dodge
         }
 
         //methods
+        //this method draws the spaceship
         public void drawSpaceship(Graphics g)
         {
 
